@@ -10,7 +10,7 @@ class SearchByRefMpn extends Module
         $this->name = 'searchbyrefmpn';
         $this->tab = 'search_filter';
         $this->version = '1.0.0';
-        $this->author = 'Your Name';
+        $this->author = 'Łukasz Janeczko';
         $this->need_instance = 0;
 
         parent::__construct();
